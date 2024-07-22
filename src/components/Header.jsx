@@ -22,8 +22,6 @@ const Header = () => {
     }
   };
 
-  // Menit 44:25
-
   const handleClick = () => {
     if (!openNavigation) return;
 
