@@ -1,5 +1,5 @@
 import { companyLogos } from "../constants";
-// 1:23:50
+
 const Company = ({ className }) => {
   return (
     <div className={`${className || ""}`}>
